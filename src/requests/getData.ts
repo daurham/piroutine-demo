@@ -7,7 +7,6 @@ import {
   swapBinaryAndBool,
 } from '../utils';
 import {
-  AlarmTimeRes,
   GetAlarmTimeParams,
   GetDisarmDataParams,
   GetDisarmRecordsDataParams,
@@ -19,12 +18,6 @@ import {
   DisarmDataObj,
   StreakDataObj,
   SkipDataObj,
-  DisarmRecordsData,
-  DisarmRes,
-  StreakRes,
-  SkipRes,
-  SoakedRes,
-  UserRes,
 } from '../../types';
 import {
   mockAlarmTime,
