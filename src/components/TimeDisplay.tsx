@@ -1,4 +1,3 @@
-import React from 'react';
 import { Time, TimeDisplayContainer } from '../styles/TimeDisplayStyles';
 
 type Props = {
